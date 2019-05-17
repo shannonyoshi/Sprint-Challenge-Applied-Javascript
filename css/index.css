@@ -302,3 +302,7 @@ body {
   width: 100%;
   display: none;
 }
+.carousel .selected {
+  display: flex;
+  justify-content: center;
+}
